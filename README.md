@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +11,8 @@ Currently, two official plugins are available:
 =======
 # Spotify_clone
 Spotify clone
+>>>>>>> origin/main
+=======
+# Spotify_clone
+developed spotify clone web application using React js Tailwindcss Node js
 >>>>>>> origin/main
