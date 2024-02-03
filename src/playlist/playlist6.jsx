@@ -159,9 +159,9 @@ function Playlist6() {
     //     document.body.style.backgroundColor = 'rgb(24 24 27)'; 
     //     })
 
-    useEffect(() => {
-        document.querySelector("#main2").style.display = "none";
-    })
+    // useEffect(() => {
+    //     document.querySelector("#main2").style.display = "none";
+    // })
 
     return (
         <>

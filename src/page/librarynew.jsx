@@ -12,7 +12,7 @@ import recent from "../assets/images/recent.svg"
 
 function Librarynew() {
     let { pathname } = useLocation();
-    let list = ["/searchnew","/homenew","/profile"];
+    let list = ["/searchnew","/homenew","/profile","/p1","/p2","/p3","/p4","/p5","/p6"];
     if (list.includes(pathname))
 
 

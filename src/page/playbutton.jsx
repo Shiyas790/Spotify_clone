@@ -43,7 +43,7 @@ function Playbutton() {
     };
 
     let { pathname } = useLocation();
-    let list = ["/searchnew","/homenew","/p1","/p2","/p4","/p4","/p5","/p6","/profile"];
+    let list = ["/searchnew","/homenew","/p1","/p2","/p3","/p4","/p5","/p6","/profile"];
     if (list.includes(pathname))
 
 
